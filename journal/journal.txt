@@ -28,3 +28,9 @@ For this week's AI usage I used AI to help me understand some questions on my pr
 question for one of my class. The AI helped me really understand the question so I
 decided to use more of it on next few questions. I also used AI to help me brainstorm
 and think of things I could do for a presentation that I'll be doing.
+
+Week 5 10/6-10/10
+For this week's AI usage, my group and I struggled with trying to workout a big csv file
+to GitHub because only allow 100MB or less and the csv file we had was over 800MB. So I
+asked ChatGPT of ways we can get over this hurdle but ultimately we just resulted into
+finding a new csv file and filling out the genre manually.
