@@ -34,3 +34,8 @@ For this week's AI usage, my group and I struggled with trying to workout a big 
 to GitHub because only allow 100MB or less and the csv file we had was over 800MB. So I
 asked ChatGPT of ways we can get over this hurdle but ultimately we just resulted into
 finding a new csv file and filling out the genre manually.
+
+Week 6 10/20-10/24
+I barely used AI for this week, in fact I don't remember using it at all this week.
+Maybe the only thing I used it for was asking it some question about some random facts
+about the author of this one show I wacthed.
