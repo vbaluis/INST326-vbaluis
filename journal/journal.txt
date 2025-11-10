@@ -44,3 +44,7 @@ Week 7 10/27-10/30
 For my AI usafe for this week, I used AI to do one of my assignment from one of my class
 where it asks us to compare two different responses from both Gen AI and the similarities
 and differences of them. It also asks us to use AI to further expand our search with it.
+
+Week 8 11/3-11/7
+For my AI usage for this week I asked it to help me with this week's code. I stuggled a
+little bit when it came to it so I asked it to help me with it.
